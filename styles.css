@@ -1,0 +1,42 @@
+body {
+    color: black;
+    background-color:aliceblue;
+    text-align: center;
+    list-style-position: inside;
+    background: rgb(81,0,84);
+    background: linear-gradient(20deg, rgba(81,0,84,0.7) 0%, rgba(48,146,181,0.7) 80%, rgba(237,250,93,0.7) 100%);
+}
+h1 {
+    text-align: center;
+    color: rgba(189, 189, 189, 0.836);
+    /* border: dashed 1px goldenrod; */
+    font: 800;
+    font-size: 40px;
+    text-shadow: 6px 6px 5px black;
+    /* width: 30%; */
+}
+.warning {
+    color:rgb(156, 3, 3);
+    font-size: 20px;
+}
+#MZK{
+    color: brown;
+    font-weight: 400;
+    font-size: 50px;
+    font-style: italic;
+}
+.sign{
+    color: whitesmoke;
+    text-align: left;
+    font-style: italic;
+}
+.pkt{
+    font-size: 20px;
+}
+.hero-img {
+    width: 50%;
+}
+.przejscie{
+    font: 400;
+    font-size: 30px;
+}
